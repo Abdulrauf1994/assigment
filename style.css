@@ -1,0 +1,44 @@
+.collapse{
+    margin-left: 700px !important;
+    background-color: rgb(255, 119, 0) !important;
+}
+
+.nav-item{
+    padding: 0px 25px;
+    
+}
+
+.navbar{
+    background-color: rgb(255, 119, 0) !important;
+}
+
+.firstimg{
+    width: 1263px;
+    height: 720px;
+}
+.card-img{
+    width: 500px;
+    margin-left: 540px;
+    position: relative;
+}
+
+
+.footer{
+    background-color: rgba(255, 119, 0);
+    width:1263px;
+    height: 210px;
+    
+}
+
+li{
+    display: inline;
+    padding: 100px;
+   
+}
+
+a{
+    text-decoration: none;
+}
+.footer-List{
+    padding-top: 160px;
+}
